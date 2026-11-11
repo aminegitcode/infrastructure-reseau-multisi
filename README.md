@@ -148,8 +148,8 @@ La GPO `GPO_Lecteurs_Reseau` attribue automatiquement les lecteurs selon l'appar
 
 | Groupe | Lecteur | Ressource |
 |---|---|---|
-| `GG_IT` | `I:` | Informatique |
-| `GG_RH` | `R:` | Ressources Humaines |
+| `GG_IT` | `I:` | IT |
+| `GG_RH` | `R:` | RH |
 | `GG_Direction` | `T:` | Direction |
 
 ## Structure du dépôt
